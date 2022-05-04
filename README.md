@@ -1,16 +1,25 @@
-### Hi there 👋
+# Will Cavenagli :rocket:
 
-<!--
-**willcav/willcav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WillCavenagli)](https://github.com/willcav) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wcavenagli/)](https://www.linkedin.com/in/wcavenagli/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=square&logoColor=black&link=https://willcav.com/)](https://willcav.com)
 
-Here are some ideas to get you started:
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=WillCavenagli&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+- My name is Will Cavenagli, I am a Mobile Developer based in Curitiba - Brazil.
+
+---
+### Technologies & Tools
+
+![](https://img.shields.io/badge/-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=60c9f8)
+![](https://img.shields.io/badge/-Dart-informational?style=flat&logo=dart&logoColor=white&color=035597)
+![](https://img.shields.io/badge/-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=ed7c36)
+![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=red&color=ffffff)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9400D3)
+![](https://img.shields.io/badge/-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=8cbf3e)
+![](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=f7c42b)
+
