@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wcavenagli/)](https://www.linkedin.com/in/wcavenagli/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-white?style=flat-square&logo=square&logoColor=black&link=https://willcav.com/)](https://willcav.com)
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=WillCavenagli&show_icons=true)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=willcav&show_icons=true)
 
 ---
 
