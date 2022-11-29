@@ -10,7 +10,7 @@
 
 ### About me
 
-- My name is Will Cavenagli, I am a Mobile Developer based in Curitiba - Brazil.
+- My name is Will Cavenagli, I am currently a Mobile Engineer at <a href="https://unico.io/" target="_blank">Unico</a>
 
 ---
 ### Technologies & Tools
