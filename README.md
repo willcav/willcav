@@ -12,7 +12,7 @@
 
 - Hello, my name is Will Cavenagli
 - I am currently a Mobile Engineer at <a href="https://unico.io/" target="_blank">Unico</a>
-- Always building amazing stuff :rocket:
+- Always building amazing things :rocket:
 
 ---
 ### Technologies & Tools
