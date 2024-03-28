@@ -11,7 +11,7 @@
 ### About me
 
 - Hello, my name is Will Cavenagli
-- I am currently a Mobile Engineer at <a href="https://unico.io/" target="_blank">Unico</a>
+- I am currently a Mobile Engineer at <a href="https://www.localizaco.com" target="_blank">Localiza&Co</a>
 - Always building amazing things :rocket:
 
 ---
