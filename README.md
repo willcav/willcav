@@ -11,7 +11,7 @@
 ### About me
 
 - Hello, my name is Will Cavenagli
-- I am currently a Mobile Engineer at <a href="https://www.localizaco.com" target="_blank">Localiza&Co</a>
+- I am currently a Mobile Engineer at <a href="https://www.evite.com/" target="_blank">Evite</a>
 - Always building amazing things :rocket:
 
 ---
