@@ -10,7 +10,7 @@
 
 ### About me
 
-- Hello, my name is Will Cavenagli
+- Hello, my name is Will
 - I am currently a Mobile Engineer at <a href="https://www.evite.com/" target="_blank">Evite</a>
 - Always building amazing things :rocket:
 
